@@ -1,0 +1,14 @@
+{
+       "pos" : [
+            {
+               "id": 1,
+               "judul":"API dan Web static",
+               "konten":"exampler"
+             },
+             {
+               "id": 2, 
+               "judul":"JAMStack",
+                "konten" : "### Javascript ( Svelte ) , API ( Axios ) dan Markdown ( Showdown ) \n\n >\\< Full JAMstack "
+              }
+          ]
+}
